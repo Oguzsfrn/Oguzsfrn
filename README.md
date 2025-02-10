@@ -1,16 +1,30 @@
-## Hi there 👋
+# Merhaba! 👋
 
-<!--
-**Oguzsfrn/Oguzsfrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Benim adım [Mustafa Oğuz Safran]. [Ankara]’da yaşayan bir yazılım geliştiricisiyim. Teknoloji ve kodlama tutkum, beni sürekli öğrenmeye ve yeni projeler geliştirmeye teşvik ediyor. 
 
-Here are some ideas to get you started:
+## Hakkımda
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 Eğitim: [Açık Öğretim] mezunuyum.
+- 🚀 Hedefim: [Oyun Geliştirmek].
+- 💻 Uzmanlık Alanlarım: [Python,web geliştirme,Konsol Oyunları vb.].
+- 🌱 Şu Anda Öğreniyorum: [Python,Web geliştirme,Yapay zeka].
+
+## Beceri Setim 🚀
+
+- Programlama Dilleri: [Python,C++]
+- Frameworkler ve Kütüphaneler: ??
+- Veritabanları: ??
+
+## Projelerim
+
+- [Proje Adı 1](proje-linki): Proje açıklaması.
+- [Proje Adı 2](proje-linki): Proje açıklaması.
+- [Proje Adı 3](proje-linki): Proje açıklaması.
+
+## İletişim 📫
+
+- [LinkedIn Profilim]()
+- [Twitter Hesabım]()
+- E-posta: []()
+
+Beni takip ettiğiniz için teşekkürler! 🚀
